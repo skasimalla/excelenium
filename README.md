@@ -1,9 +1,8 @@
 #Automated Testing
 
+Why did I build this tool 
+Selenium Java API gives a tremendous power and ease of usage in hands of developers who want to automate browser navigations through their java programs. However, when it comes to use this for testing automation, testers tend to shy away from this tool as it is required to write some amount of java code to achieve this automation. Keeping all this in mind, Excelenium tries to make it simpler for testers by hiding all selenium code in a jar and using excel file to read test cases to be executed. Only thing now one has to do is to prepare excel file, mention all steps in an easy to understand command syntax and pass this to Excelenium. Rest will be taken care by Excelenium.
 
-#Purpose:
-
-The purpose of this application is to test the front end web application search response and resp response time using selenium.
 
 #Required Settings:
 
